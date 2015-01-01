@@ -1,0 +1,7 @@
+c:\users\taukir\documents\visual studio 2010\Projects\RefrigeratorUIApp\RefrigeratorUIApp\obj\x86\Debug\RefrigeratorUIApp.RefrigeratorUI.resources
+c:\users\taukir\documents\visual studio 2010\Projects\RefrigeratorUIApp\RefrigeratorUIApp\obj\x86\Debug\RefrigeratorUIApp.Properties.Resources.resources
+c:\users\taukir\documents\visual studio 2010\Projects\RefrigeratorUIApp\RefrigeratorUIApp\obj\x86\Debug\RefrigeratorUIApp.csproj.GenerateResource.Cache
+c:\users\taukir\documents\visual studio 2010\Projects\RefrigeratorUIApp\RefrigeratorUIApp\bin\Debug\RefrigeratorUIApp.exe
+c:\users\taukir\documents\visual studio 2010\Projects\RefrigeratorUIApp\RefrigeratorUIApp\bin\Debug\RefrigeratorUIApp.pdb
+c:\users\taukir\documents\visual studio 2010\Projects\RefrigeratorUIApp\RefrigeratorUIApp\obj\x86\Debug\RefrigeratorUIApp.exe
+c:\users\taukir\documents\visual studio 2010\Projects\RefrigeratorUIApp\RefrigeratorUIApp\obj\x86\Debug\RefrigeratorUIApp.pdb
